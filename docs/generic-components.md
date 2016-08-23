@@ -33,7 +33,7 @@ These components are used by at-least one component or view.
 
 ### ComponentD
 
-* Path: [views/generic/component-d](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-d.csx.coffee)
+* Path: [views/generic/component-d](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-d.csx.coffee)
 * 28 lines of code
 
 **Unit Tests**
@@ -69,15 +69,15 @@ Could not find any unit tests for this component
 
 ### ComponentA
 
-* Path: [views/generic/component-a](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-a.csx.coffee)
+* Path: [views/generic/component-a](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-a.csx.coffee)
 * 28 lines of code
 
 **Used By:**
-* [views/about](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/about.csx.coffee)
-* [views/banner](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/banner.csx.coffee)
-* [views/generic/component-b](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-b.csx.coffee)
-* [views/generic/component-c](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-c.csx.coffee)
-* [views/generic/component-d](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-d.csx.coffee)
+* [views/about](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/about.csx.coffee)
+* [views/banner](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/banner.csx.coffee)
+* [views/generic/component-b](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-b.csx.coffee)
+* [views/generic/component-c](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-c.csx.coffee)
+* [views/generic/component-d](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-d.csx.coffee)
 
 **Unit Tests**
 
@@ -89,6 +89,7 @@ Only it statements are extracted, e.g: `it "tests something", ->`. Describe bloc
 * does something min blowing
 * does something truly earth shattering
 * blows your mind
+
 
 **Render Method**
 
@@ -107,20 +108,21 @@ Only it statements are extracted, e.g: `it "tests something", ->`. Describe bloc
 
 ### ComponentB
 
-* Path: [views/generic/component-b](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-b.csx.coffee)
+* Path: [views/generic/component-b](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-b.csx.coffee)
 * 28 lines of code
 
 **Used By:**
-* [views/contact](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/contact.csx.coffee)
-* [views/generic/component-a](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-a.csx.coffee)
-* [views/generic/component-c](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-c.csx.coffee)
-* [views/generic/component-d](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-d.csx.coffee)
+* [views/contact](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/contact.csx.coffee)
+* [views/generic/component-a](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-a.csx.coffee)
+* [views/generic/component-c](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-c.csx.coffee)
+* [views/generic/component-d](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-d.csx.coffee)
 
 **Unit Tests**
 
 Only it statements are extracted, e.g: `it "tests something", ->`. Describe blocks are ignored and nesting is not understood.
 
 * doesn't do very much
+
 
 **Render Method**
 
@@ -139,12 +141,12 @@ Only it statements are extracted, e.g: `it "tests something", ->`. Describe bloc
 
 ### ComponentC
 
-* Path: [views/generic/component-c](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-c.csx.coffee)
+* Path: [views/generic/component-c](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-c.csx.coffee)
 * 28 lines of code
 
 **Used By:**
-* [views/generic/component-a](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-a.csx.coffee)
-* [views/generic/component-b](https://github.com/serverdensity/honshuu-ui/blob/master/app/coffeescript/views/generic/component-b.csx.coffee)
+* [views/generic/component-a](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-a.csx.coffee)
+* [views/generic/component-b](https://github.com/serverdensity/Document-Generic-React-Components/tree/master/app/coffeescript/views/generic/component-b.csx.coffee)
 
 **Unit Tests**
 
@@ -153,6 +155,7 @@ Only it statements are extracted, e.g: `it "tests something", ->`. Describe bloc
 * render stuff
 * renders some stuff using props
 * responds to some user events
+
 
 **Render Method**
 
