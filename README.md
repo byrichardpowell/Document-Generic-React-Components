@@ -1,6 +1,6 @@
 # Document-Generic-React-Components
 
-A relatively naive script to document generic components and their use inside a code-base
+A relatively naive script to document generic components and their use inside a code-base.  React offers fantastic levels of composability which leads to many small generic and re-usable components.  As such it can be hard to know what code already exists and what components can be re-used or re-purposed.  This script aims to solve that problem.
 
 ## Sample
 
