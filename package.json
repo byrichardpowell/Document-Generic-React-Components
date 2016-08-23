@@ -1,0 +1,18 @@
+{
+  "name": "create-generic-component-docs",
+  "version": "0.1.0",
+  "description": "A relatively naive script to document generic components and their use inside a code-base",
+  "license": "BSD-3-Clause",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/serverdensity/Document-Generic-React-Components.git"
+  },
+  "scripts": {
+    "docs": "node ./scripts/create-generic-component-docs.js"
+  },
+  "devDependencies": {
+    "mustache": "2.2.1",
+    "sloc": "0.1.10",
+    "walk": "2.3.9"
+  }
+}
